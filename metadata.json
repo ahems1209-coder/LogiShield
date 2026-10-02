@@ -1,0 +1,6 @@
+{
+  "name": "LogiShield AI - Forward Supply Chain Intelligence",
+  "description": "Predictive logistics, demand forecasting, multi-factor risk analytics, and geospatial decision-support platform for forward formations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
